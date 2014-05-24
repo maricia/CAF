@@ -7,7 +7,11 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "ViewController.m"
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController <UIScrollViewDelegate>
+
+@property (strong, nonatomic) IBOutlet UILabel *addressLabel;
+@property (strong, nonatomic) IBOutlet UIImageView *photoImageView;
 
 @end
