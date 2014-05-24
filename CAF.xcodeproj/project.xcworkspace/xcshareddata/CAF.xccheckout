@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8EAF84D5-B1DA-400E-B9E6-72CBEA67F3A8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CAF</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EC1338A3-3359-4E36-81CA-022A0CB72729</key>
+		<string>https://github.com/maricia/CAF.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CAF.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EC1338A3-3359-4E36-81CA-022A0CB72729</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/maricia/CAF.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EC1338A3-3359-4E36-81CA-022A0CB72729</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EC1338A3-3359-4E36-81CA-022A0CB72729</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CAF</string>
+		</dict>
+	</array>
+</dict>
+</plist>
